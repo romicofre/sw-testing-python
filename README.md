@@ -1,18 +1,23 @@
 # sw-testing-python
+[![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-380/)
+
+----------
 All methods, libraries and good practices to agile test, unit test, 
 integration test with python.
 
 The style guide is primarily PEP8. 
 
 
-# Project structure
+##Project structure
 
+---------
 The main category or folder is the test framework.
-- Pytest
+- pytest : [`pytest_fw`](pytest_fw/app/pytest.md)
 
-# Concepts
+## Concepts
 
-## Automation Framework
+--------
+### Automation Framework
 
 An organized approach to writing test cases, executing then and 
 reporting the results.
